@@ -1,0 +1,40 @@
+addronce
+ERROR: direct address used more than once.
+addronce2
+ERROR: indirect address used more than once.
+badaddr
+ERROR: bad direct address in inode.
+badfmt
+ERROR: directory not properly formatted.
+badindir1
+ERROR: bad indirect address in inode.
+badindir2
+ERROR: bad indirect address in inode.
+ERROR: bad inode.
+badlarge
+ERROR: directory appears more than once in file system.
+badrefcnt
+ERROR: bad reference count for file.
+badrefcn2
+ERROR: bad reference count for file.
+badroot
+ERROR: root directory does not exist.
+badroot2
+ERROR: root directory does not exist.
+dironce
+ERROR: directory appears more than once in file system.
+imrkfree
+ERROR: inode referred to in directory but marked free.
+imrkused
+ERROR: inode marked use but not found in a directory.
+indirfree
+ERROR: address used by inode but marked free in bitmap.
+mrkfree
+ERROR: address used by inode but marked free in bitmap.
+mrkused
+ERROR: bitmap marks block in use but it is not in use.
+good
+goodlarge
+goodlink
+goodrefcnt
+goodrm
